@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 172,
    "metadata": {},
    "outputs": [
     {
@@ -168,7 +168,6 @@
     "sigma = 2\n",
     "touch(\"6sem_lab4_solution.txt\")\n",
     "stream = open(\"6sem_lab4_solution.txt\", \"w\")\n",
-    "\n",
     "\n",
     "for iter = 1:8\n",
     "    L = 10*2^m + 1\n",
